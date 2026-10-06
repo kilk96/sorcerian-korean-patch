@@ -22,11 +22,11 @@ Get-FileHash -Algorithm SHA256 -LiteralPath 'Sorcerian_KO_v1.0.0.bin'
 
 ## 한글판 화면
 
-![메인 메뉴](https://github.com/kilk96/sorcerian-korean-patch/releases/download/v1.0.0/sorcerian-v1.0.0-menu.png)
+![메인 메뉴](screenshots/sorcerian-v1.0.0-menu.png)
 
-![게임 내 메뉴](https://github.com/kilk96/sorcerian-korean-patch/releases/download/v1.0.0/sorcerian-v1.0.0-field-menu.png)
+![게임 내 메뉴](screenshots/sorcerian-v1.0.0-field-menu.png)
 
-![마을 시설](https://github.com/kilk96/sorcerian-korean-patch/releases/download/v1.0.0/sorcerian-v1.0.0-town.png)
+![마을 시설](screenshots/sorcerian-v1.0.0-town.png)
 
 ## 번역·확인 범위
 
