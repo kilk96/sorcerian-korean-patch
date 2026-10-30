@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-**[패치 다운로드](https://github.com/kilk96/sorcerian-korean-patch/releases/tag/v1.0.0)**에서 `sorcerian-ko-v1.0.0.zip`을 받아 주세요. 비공개 저장소에 접근할 수 있는 계정으로 로그인해야 합니다. 압축을 풀면 패치·설명서·검증 값·글꼴 라이선스가 들어 있습니다. 원본 게임 파일은 직접 준비해 주세요.
+[패치 다운로드](https://github.com/kilk96/sorcerian-korean-patch/releases/tag/v1.0.0)에서 `sorcerian-ko-v1.0.0.zip`을 받아 주세요. 압축을 풀면 패치·설명서·검증 값·글꼴 라이선스가 들어 있습니다. 원본 게임 파일은 직접 준비해 주세요.
 
 ## 적용 방법
 
